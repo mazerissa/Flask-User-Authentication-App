@@ -36,7 +36,7 @@ A secure and responsive web application built with Flask that implements a compl
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/flask-auth-app.git
+   git clone https://github.com/mazerissa/flask-auth-app.git
    cd flask-auth-app
    ```
 
